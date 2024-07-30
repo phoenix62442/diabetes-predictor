@@ -184,7 +184,7 @@ Label(root,text='This model uses Logistic Regression Classifier' ,bg='#ADEBCB', 
 Label(root,text='Accuracy of model:' ,bg='#ADEBCB', fg='black' ,font=('Aerial 13')).place(x=750,y=520) 
 Label(root,text=acu ,bg='#ADEBCB', fg='black' ,font=('Aerial 13')).place(x=900,y=520) 
 Label(root,text='We have used Diabetes dataset from Kaggle ' ,bg='#ADEBCB', fg='black' ,font=('Aerial 13')).place(x=750,y=560) 
-Label(root,text='Creater: Ayush' ,bg='#ADEBCB', fg='black' ,font=('Aerial 7')).place(x=1100,y=630) 
+Label(root,text='Creater: Jahnavi' ,bg='#ADEBCB', fg='black' ,font=('Aerial 7')).place(x=1100,y=630) 
 
 
 sub_but=Button(root,width=7,pady=2,text='Submit',bg='white',fg='black',border=0,font=("bold"),command=submit)
